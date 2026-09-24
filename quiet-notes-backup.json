@@ -1,0 +1,64 @@
+{
+    "folders": [
+        {
+            "id": "notes",
+            "name": "Notes",
+            "createdAt": 1790230895842
+        }
+    ],
+    "notes": [
+        {
+            "id": "0272cd92-2559-4e16-a3ea-d9b12a5abd45",
+            "folderId": "notes",
+            "title": "same llk s",
+            "body": "hill\n1. \nhshssh",
+            "blocks": [
+                {
+                    "id": "6d51657b-2be0-4f1a-96df-d74af2ef4830",
+                    "text": "hill",
+                    "marks": [
+                        {
+                            "start": 0,
+                            "end": 4,
+                            "type": "COLOR",
+                            "value": "-16087809"
+                        }
+                    ]
+                },
+                {
+                    "id": "4e7ab163-d886-4408-bab0-01da12f2fcf7",
+                    "text": "1. "
+                },
+                {
+                    "id": "e260074c-b1f4-48d1-8549-9c8a43e2dfc7",
+                    "type": "IMAGE",
+                    "attachment": {
+                        "id": "0143670f-89de-4d09-ad80-325b5825be92",
+                        "type": "IMAGE",
+                        "localPath": "attachments/0143670f-89de-4d09-ad80-325b5825be92.img"
+                    }
+                },
+                {
+                    "id": "374716ca-254c-4417-ab8c-8b65e131f1c6",
+                    "text": "hshssh"
+                }
+            ],
+            "createdAt": 1790230902766,
+            "updatedAt": 1790234555820
+        },
+        {
+            "id": "6114a492-5c79-45d5-a947-735899666e1b",
+            "folderId": "notes",
+            "title": "New Note",
+            "body": "ihhhk\n1. \n1. ",
+            "blocks": [
+                {
+                    "id": "168f8cd2-ceb4-45df-a008-3d8a70d436cd",
+                    "text": "ihhhk\n1. \n1. "
+                }
+            ],
+            "createdAt": 1790231747359,
+            "updatedAt": 1790231824505
+        }
+    ]
+}
