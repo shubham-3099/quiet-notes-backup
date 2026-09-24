@@ -8,57 +8,110 @@
     ],
     "notes": [
         {
-            "id": "0272cd92-2559-4e16-a3ea-d9b12a5abd45",
+            "id": "c3478434-95d9-41d7-a54f-6475199f7495",
             "folderId": "notes",
-            "title": "same llk s",
-            "body": "hill\n1. \nhshssh",
+            "title": "Apps",
+            "body": "• food discovery[[New Note]]\n• \n• dailykeep\n• diary making\n• \napp store\n\n\n\n\n\n\n\n",
             "blocks": [
                 {
-                    "id": "6d51657b-2be0-4f1a-96df-d74af2ef4830",
-                    "text": "hill",
-                    "marks": [
-                        {
-                            "start": 0,
-                            "end": 4,
-                            "type": "COLOR",
-                            "value": "-16087809"
-                        }
-                    ]
+                    "id": "5f5bf523-d4df-4b4c-a596-7425ad321dc8",
+                    "text": "food discovery[[New Note]]",
+                    "textKind": "BULLET"
                 },
                 {
-                    "id": "4e7ab163-d886-4408-bab0-01da12f2fcf7",
-                    "text": "1. "
-                },
-                {
-                    "id": "e260074c-b1f4-48d1-8549-9c8a43e2dfc7",
+                    "id": "1da59020-7183-416b-97a3-62ce9e6c0a00",
                     "type": "IMAGE",
                     "attachment": {
-                        "id": "0143670f-89de-4d09-ad80-325b5825be92",
+                        "id": "2cf006ab-b827-4db7-802e-10cbb608848a",
                         "type": "IMAGE",
-                        "localPath": "attachments/0143670f-89de-4d09-ad80-325b5825be92.img"
+                        "localPath": "attachments/2cf006ab-b827-4db7-802e-10cbb608848a.img"
                     }
                 },
                 {
-                    "id": "374716ca-254c-4417-ab8c-8b65e131f1c6",
-                    "text": "hshssh"
+                    "id": "349f9147-8aa4-44e9-9beb-5d2d1ab77ef4",
+                    "textKind": "BULLET"
+                },
+                {
+                    "id": "b49dd363-f94a-49cc-84f0-28c38dc0ffd3",
+                    "text": "dailykeep",
+                    "textKind": "BULLET"
+                },
+                {
+                    "id": "77353c5f-ca5c-4fca-9da0-f7ab59ab9d07",
+                    "text": "diary making",
+                    "textKind": "BULLET"
+                },
+                {
+                    "id": "1dfea3f4-4cac-483a-b770-5f003b7248c1",
+                    "textKind": "BULLET"
+                },
+                {
+                    "id": "4aa48d15-580d-4a13-8727-3c53a6146d95",
+                    "text": "app store"
+                },
+                {
+                    "id": "d061118e-8336-4e2a-821f-e38fb81bbc2d"
+                },
+                {
+                    "id": "e1eb9f01-552f-4ae9-9067-874b0bab6da4"
+                },
+                {
+                    "id": "7c5df33e-5998-4472-a3dd-f2a7829e63ff"
+                },
+                {
+                    "id": "1463b2ea-ff85-43c5-9fe8-80900c48c065"
+                },
+                {
+                    "id": "6298f3fb-91ba-440f-83a5-01ad5f21df31"
+                },
+                {
+                    "id": "85c3ae42-5639-447c-bdfc-5c0d70aa6d52"
+                },
+                {
+                    "id": "c7cc273e-4916-4883-866a-51fe4756da76"
+                },
+                {
+                    "id": "6a4fc527-fd16-45b0-8bd1-b353ba9a23ff"
                 }
             ],
-            "createdAt": 1790230902766,
-            "updatedAt": 1790234555820
+            "createdAt": 1790244259185,
+            "updatedAt": 1790258049531
         },
         {
-            "id": "6114a492-5c79-45d5-a947-735899666e1b",
+            "id": "dea099ac-f05f-41cf-8801-94d27630a0ee",
             "folderId": "notes",
             "title": "New Note",
-            "body": "ihhhk\n1. \n1. ",
+            "body": "hello\n• j2i2\n• \n• ",
             "blocks": [
                 {
-                    "id": "168f8cd2-ceb4-45df-a008-3d8a70d436cd",
-                    "text": "ihhhk\n1. \n1. "
+                    "id": "503b1013-8ef5-4157-a00c-0fe2e74a3d92",
+                    "text": "hello"
+                },
+                {
+                    "id": "6e28e1b0-8f4c-4585-a896-ae7fbcd3d085",
+                    "text": "j2i2",
+                    "textKind": "BULLET"
+                },
+                {
+                    "id": "1c95108b-768b-4cd4-8ff5-4c311099e694",
+                    "textKind": "BULLET"
+                },
+                {
+                    "id": "e3d4cb6c-71dc-4b1e-a07b-8e23c888c67e",
+                    "type": "IMAGE",
+                    "attachment": {
+                        "id": "6c16a7bf-d1bb-4dc0-afe5-da9adc08c07d",
+                        "type": "IMAGE",
+                        "localPath": "attachments/6c16a7bf-d1bb-4dc0-afe5-da9adc08c07d.img"
+                    }
+                },
+                {
+                    "id": "e002a150-6436-43cd-9be6-cfc5bc4f6591",
+                    "textKind": "BULLET"
                 }
             ],
-            "createdAt": 1790231747359,
-            "updatedAt": 1790231824505
+            "createdAt": 1790249141694,
+            "updatedAt": 1790258066020
         }
     ]
 }
