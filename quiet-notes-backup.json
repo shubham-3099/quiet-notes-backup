@@ -8,6 +8,54 @@
             "createdAt": 1790326041278
         }
     ],
-    "notes": [],
+    "notes": [
+        {
+            "id": "baf02ebf-7067-4cad-8bf4-2ca8aec2133f",
+            "folderId": "notes",
+            "title": "App",
+            "body": "• food discovery \n• diary\n• note taking\n• dailykeep ",
+            "attachments": [],
+            "blocks": [
+                {
+                    "id": "744e9b28-6407-43e2-b418-c141e7320648",
+                    "type": "TEXT",
+                    "text": "food discovery ",
+                    "textKind": "BULLET",
+                    "checked": false,
+                    "marks": [],
+                    "attachment": null
+                },
+                {
+                    "id": "77aeb64a-1051-4c77-8113-f8e2897d6cee",
+                    "type": "TEXT",
+                    "text": "diary",
+                    "textKind": "BULLET",
+                    "checked": false,
+                    "marks": [],
+                    "attachment": null
+                },
+                {
+                    "id": "aa927fc2-bfe4-45d6-bc02-3160bbad4e8d",
+                    "type": "TEXT",
+                    "text": "note taking",
+                    "textKind": "BULLET",
+                    "checked": false,
+                    "marks": [],
+                    "attachment": null
+                },
+                {
+                    "id": "0e66e09b-46eb-4541-8ad8-f3bc95e2b14a",
+                    "type": "TEXT",
+                    "text": "dailykeep ",
+                    "textKind": "BULLET",
+                    "checked": false,
+                    "marks": [],
+                    "attachment": null
+                }
+            ],
+            "createdAt": 1790326130102,
+            "updatedAt": 1790326167423
+        }
+    ],
     "decks": []
 }
