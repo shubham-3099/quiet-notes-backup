@@ -3,115 +3,77 @@
         {
             "id": "notes",
             "name": "Notes",
-            "createdAt": 1790230895842
+            "isPrivate": false,
+            "syncEnabled": true,
+            "createdAt": 1790307026754
         }
     ],
     "notes": [
         {
-            "id": "c3478434-95d9-41d7-a54f-6475199f7495",
+            "id": "863b1aa1-dd2a-4f8c-97b2-97c588557af6",
             "folderId": "notes",
             "title": "Apps",
-            "body": "• food discovery[[New Note]]\n• \n• dailykeep\n• diary making\n• \napp store\n\n\n\n\n\n\n\n",
+            "body": "• quite notes\n• dailykeep\n• paper & days\n• food discovery\n\n",
+            "attachments": [],
             "blocks": [
                 {
-                    "id": "5f5bf523-d4df-4b4c-a596-7425ad321dc8",
-                    "text": "food discovery[[New Note]]",
-                    "textKind": "BULLET"
+                    "id": "29fa0fc0-a11a-4f4f-8327-bfcfb542222c",
+                    "type": "TEXT",
+                    "text": "quite notes",
+                    "textKind": "BULLET",
+                    "checked": false,
+                    "marks": [],
+                    "attachment": null
                 },
                 {
-                    "id": "1da59020-7183-416b-97a3-62ce9e6c0a00",
-                    "type": "IMAGE",
-                    "attachment": {
-                        "id": "2cf006ab-b827-4db7-802e-10cbb608848a",
-                        "type": "IMAGE",
-                        "localPath": "attachments/2cf006ab-b827-4db7-802e-10cbb608848a.img"
-                    }
-                },
-                {
-                    "id": "349f9147-8aa4-44e9-9beb-5d2d1ab77ef4",
-                    "textKind": "BULLET"
-                },
-                {
-                    "id": "b49dd363-f94a-49cc-84f0-28c38dc0ffd3",
+                    "id": "edd3eefb-391d-4a40-882a-2deac77fa0d7",
+                    "type": "TEXT",
                     "text": "dailykeep",
-                    "textKind": "BULLET"
+                    "textKind": "BULLET",
+                    "checked": false,
+                    "marks": [],
+                    "attachment": null
                 },
                 {
-                    "id": "77353c5f-ca5c-4fca-9da0-f7ab59ab9d07",
-                    "text": "diary making",
-                    "textKind": "BULLET"
+                    "id": "526f250d-a7ff-4cde-a759-991cfc5b9df4",
+                    "type": "TEXT",
+                    "text": "paper & days",
+                    "textKind": "BULLET",
+                    "checked": false,
+                    "marks": [],
+                    "attachment": null
                 },
                 {
-                    "id": "1dfea3f4-4cac-483a-b770-5f003b7248c1",
-                    "textKind": "BULLET"
+                    "id": "6a9bc2c3-48e9-4de5-b347-b507474827bf",
+                    "type": "TEXT",
+                    "text": "food discovery",
+                    "textKind": "BULLET",
+                    "checked": false,
+                    "marks": [],
+                    "attachment": null
                 },
                 {
-                    "id": "4aa48d15-580d-4a13-8727-3c53a6146d95",
-                    "text": "app store"
+                    "id": "73917a2f-9d7e-462f-a9ef-2c65e6e5ab9c",
+                    "type": "TEXT",
+                    "text": "",
+                    "textKind": "PARAGRAPH",
+                    "checked": false,
+                    "marks": [],
+                    "attachment": null
                 },
                 {
-                    "id": "d061118e-8336-4e2a-821f-e38fb81bbc2d"
-                },
-                {
-                    "id": "e1eb9f01-552f-4ae9-9067-874b0bab6da4"
-                },
-                {
-                    "id": "7c5df33e-5998-4472-a3dd-f2a7829e63ff"
-                },
-                {
-                    "id": "1463b2ea-ff85-43c5-9fe8-80900c48c065"
-                },
-                {
-                    "id": "6298f3fb-91ba-440f-83a5-01ad5f21df31"
-                },
-                {
-                    "id": "85c3ae42-5639-447c-bdfc-5c0d70aa6d52"
-                },
-                {
-                    "id": "c7cc273e-4916-4883-866a-51fe4756da76"
-                },
-                {
-                    "id": "6a4fc527-fd16-45b0-8bd1-b353ba9a23ff"
+                    "id": "30da8769-0bf9-4b4f-ac3f-16f2212b8b3e",
+                    "type": "TEXT",
+                    "text": "",
+                    "textKind": "PARAGRAPH",
+                    "checked": false,
+                    "marks": [],
+                    "attachment": null
                 }
             ],
-            "createdAt": 1790244259185,
-            "updatedAt": 1790258049531
-        },
-        {
-            "id": "dea099ac-f05f-41cf-8801-94d27630a0ee",
-            "folderId": "notes",
-            "title": "New Note",
-            "body": "hello\n• j2i2\n• \n• ",
-            "blocks": [
-                {
-                    "id": "503b1013-8ef5-4157-a00c-0fe2e74a3d92",
-                    "text": "hello"
-                },
-                {
-                    "id": "6e28e1b0-8f4c-4585-a896-ae7fbcd3d085",
-                    "text": "j2i2",
-                    "textKind": "BULLET"
-                },
-                {
-                    "id": "1c95108b-768b-4cd4-8ff5-4c311099e694",
-                    "textKind": "BULLET"
-                },
-                {
-                    "id": "e3d4cb6c-71dc-4b1e-a07b-8e23c888c67e",
-                    "type": "IMAGE",
-                    "attachment": {
-                        "id": "6c16a7bf-d1bb-4dc0-afe5-da9adc08c07d",
-                        "type": "IMAGE",
-                        "localPath": "attachments/6c16a7bf-d1bb-4dc0-afe5-da9adc08c07d.img"
-                    }
-                },
-                {
-                    "id": "e002a150-6436-43cd-9be6-cfc5bc4f6591",
-                    "textKind": "BULLET"
-                }
-            ],
-            "createdAt": 1790249141694,
-            "updatedAt": 1790258066020
+            "createdAt": 1790307091593,
+            "updatedAt": 1790308587466
         }
-    ]
+    ],
+    "decks": []
 }
