@@ -5,75 +5,9 @@
             "name": "Notes",
             "isPrivate": false,
             "syncEnabled": true,
-            "createdAt": 1790307026754
+            "createdAt": 1790326041278
         }
     ],
-    "notes": [
-        {
-            "id": "863b1aa1-dd2a-4f8c-97b2-97c588557af6",
-            "folderId": "notes",
-            "title": "Apps",
-            "body": "• quite notes\n• dailykeep\n• paper & days\n• food discovery\n\n",
-            "attachments": [],
-            "blocks": [
-                {
-                    "id": "29fa0fc0-a11a-4f4f-8327-bfcfb542222c",
-                    "type": "TEXT",
-                    "text": "quite notes",
-                    "textKind": "BULLET",
-                    "checked": false,
-                    "marks": [],
-                    "attachment": null
-                },
-                {
-                    "id": "edd3eefb-391d-4a40-882a-2deac77fa0d7",
-                    "type": "TEXT",
-                    "text": "dailykeep",
-                    "textKind": "BULLET",
-                    "checked": false,
-                    "marks": [],
-                    "attachment": null
-                },
-                {
-                    "id": "526f250d-a7ff-4cde-a759-991cfc5b9df4",
-                    "type": "TEXT",
-                    "text": "paper & days",
-                    "textKind": "BULLET",
-                    "checked": false,
-                    "marks": [],
-                    "attachment": null
-                },
-                {
-                    "id": "6a9bc2c3-48e9-4de5-b347-b507474827bf",
-                    "type": "TEXT",
-                    "text": "food discovery",
-                    "textKind": "BULLET",
-                    "checked": false,
-                    "marks": [],
-                    "attachment": null
-                },
-                {
-                    "id": "73917a2f-9d7e-462f-a9ef-2c65e6e5ab9c",
-                    "type": "TEXT",
-                    "text": "",
-                    "textKind": "PARAGRAPH",
-                    "checked": false,
-                    "marks": [],
-                    "attachment": null
-                },
-                {
-                    "id": "30da8769-0bf9-4b4f-ac3f-16f2212b8b3e",
-                    "type": "TEXT",
-                    "text": "",
-                    "textKind": "PARAGRAPH",
-                    "checked": false,
-                    "marks": [],
-                    "attachment": null
-                }
-            ],
-            "createdAt": 1790307091593,
-            "updatedAt": 1790308587466
-        }
-    ],
+    "notes": [],
     "decks": []
 }
